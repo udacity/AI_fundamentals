@@ -1,1 +1,1 @@
-# AI_fundamentals
+# AI Fundamentals
